@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShirleiAlexandrino
 - 👀 I’m interested in Running and Data Science
-- 🌱 I’m currently , Python, Machine Learning, NLP
+- 🌱 I’m currently studying , Python, Machine Learning, NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
