@@ -1,0 +1,16 @@
+{
+	"name": "KQL script 2",
+	"properties": {
+		"content": {
+			"query": "['fleet data']\n|summarize ['Average Temperature'] =\navg (CoreTemp) by \nDeviceState\n|order by ['Average Temperature'] desc\n| render columnchart ",
+			"metadata": {
+				"language": "kql"
+			},
+			"currentConnection": {
+				"poolName": "droneanalyticadx",
+				"databaseName": "drone-telemetry"
+			}
+		},
+		"type": "KqlQuery"
+	}
+}
