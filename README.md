@@ -4,8 +4,7 @@ Solutions Architect working on data & analytics platforms — mostly SAP Datasph
 
 **What I work with**
 - 🏗️ Data architecture & governance in the SAP ecosystem — Datasphere, BW/4HANA, HANA
-- ☁️ Cloud data platforms — Azure Synapse Analytics, Data Factory, Data Explorer
-- 🐍 Branching into Python, SQL pipelines, and applied ML/NLP
+- ☁️ Cloud data platforms and Agentic Engineering
 
 **Some things I've built**
 - [`case-impulsogov`](https://github.com/ShirleiAlexandrino/case-impulsogov) — an analytics engineering case for a healthcare data platform: a medallion pipeline (bronze/silver/gold) in DuckDB, LGPD-aware data minimization, and a Streamlit app with role-based access control.
