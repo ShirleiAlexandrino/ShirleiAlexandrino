@@ -8,7 +8,7 @@ Solutions Architect working on data & analytics platforms — mostly SAP Datasph
 
 **Some things I've built**
 - [`case-impulsogov`](https://github.com/ShirleiAlexandrino/case-impulsogov) — an analytics engineering case for a healthcare data platform: a medallion pipeline (bronze/silver/gold) in DuckDB, LGPD-aware data minimization, and a Streamlit app with role-based access control.
-  Live demo: [case-impulsogov-shirlei-alexandrino.streamlit.app](https://case-impulsogov-shirlei-alexandrino.streamlit.app/)
+  Live demo: [case-impulsogov.streamlit.app](https://case-impulsogov.streamlit.app/)
 - `avalifit` — an AI-powered physical assessment platform for personal trainers.
 
 **Education**
