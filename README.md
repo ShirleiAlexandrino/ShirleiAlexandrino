@@ -24,6 +24,6 @@ Solutions Architect working on data & analytics platforms — mostly SAP Datasph
 
 📍 Rio de Janeiro, Brazil
 
-🏃‍♀️ Outside of work: running, and continuously studying Python, Machine Learning and NLP
+🏃‍♀️ Outside of work: running, and continuously studying AI, Machine Learning and NLP
 
 📫 [LinkedIn](https://linkedin.com/in/shirleialexandrino) · shirlei.alexandrino@gmail.com
