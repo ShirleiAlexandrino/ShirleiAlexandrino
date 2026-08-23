@@ -1,6 +1,6 @@
 ### Hi, I'm Shirlei 👋
 
-Solutions Architect working on data & analytics platforms — mostly SAP Datasphere for enterprise clients by day, and Python-based analytics engineering and applied AI on the side.
+Solutions Architect working on data & analytics platforms — mostly SAP Datasphere for enterprise clients by day,analytics engineering and applied AI on the side.
 
 **What I work with**
 - 🏗️ Data architecture & governance in the SAP ecosystem — Datasphere, BW/4HANA, HANA
