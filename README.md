@@ -16,7 +16,7 @@ Solutions Architect working on data & analytics platforms — mostly SAP Datasph
 - MBA Executivo em Business Analytics e Big Data — Fundação Getulio Vargas (2017–2019)
 - MBA em Gestão de Projetos — Ibmec (2014)
 - MBA em Gestão de Processos — Fundação Getulio Vargas (2011–2013)
-- Business — Universidade Federal Rural do Rio de Janeiro (1995–2000)
+- Administração de Empresas — Universidade Federal Rural do Rio de Janeiro (1995–2000)
 
 🏆 Featured among 19 professionals driving digital transformation in large corporations — [Forbes Insider, "Inovadores Negros"](https://forbes.com.br/forbes-insider/especial-inovadores-negros)
 
