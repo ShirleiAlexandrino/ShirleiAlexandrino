@@ -14,10 +14,9 @@ Solutions Architect working on data & analytics platforms — mostly SAP Datasph
 **Education**
 - Executive MBA, Arquitetura de Soluções — FIAP (2025–2026)
 - MBA Executivo em Business Analytics e Big Data — Fundação Getulio Vargas (2017–2019)
-- BI MASTER, Business Intelligence — Pontifícia Universidade Católica do Rio de Janeiro (incomplete)
 - MBA em Gestão de Projetos — Ibmec (2014)
 - MBA em Gestão de Processos — Fundação Getulio Vargas (2011–2013)
-- Business — Universidade Federal Rural do Rio de Janeiro (1995–2000)
+- Administração de Empresas — Universidade Federal Rural do Rio de Janeiro (1995–2000)
 
 🏆 Featured among 19 professionals driving digital transformation in large corporations — [Forbes Insider, "Inovadores Negros"](https://forbes.com.br/forbes-tech/2020/09/especial-inovadores-negros-18-profissionais-que-estao-promovendo-a-transformacao-digital-em-grandes-corporacoes/#:~:text=Shirlei%20Alexandrino)
 
