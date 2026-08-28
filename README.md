@@ -19,7 +19,7 @@ Solutions Architect working on data & analytics platforms — mostly SAP Datasph
 - MBA em Gestão de Processos — Fundação Getulio Vargas (2011–2013)
 - Business — Universidade Federal Rural do Rio de Janeiro (1995–2000)
 
-🏆 Featured among 19 professionals driving digital transformation in large corporations — [Forbes Insider, "Inovadores Negros"](https://forbes.com.br/forbes-insider/especial-inovadores-negros)
+🏆 Featured among 19 professionals driving digital transformation in large corporations — [Forbes Insider, "Inovadores Negros"](https://forbes.com.br/forbes-tech/2020/09/especial-inovadores-negros-18-profissionais-que-estao-promovendo-a-transformacao-digital-em-grandes-corporacoes/#:~:text=Shirlei%20Alexandrino)
 
 📍 Rio de Janeiro, Brazil
 
